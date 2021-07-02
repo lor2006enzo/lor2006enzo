@@ -1,0 +1,4 @@
+- 👋 AOPAA, sou lorkg033 
+- 👀 tenho interesse em javascript, html, css. 
+- 🌱 atualmente estou aprendendo javascript, html, css.
+- 📫 meu email: lorenzo.z.martins@gmail.com
